@@ -1,5 +1,7 @@
 <application>
   <component name="TipsStore">
-    <option name="firstStartUp" value="false" />
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectName="G:/workspace/idea/autoconfiguration" firstStartUp="false" />
+    <entry projectName="G:/workspace/idea/elasticsearch-demo" firstStartUp="false" />
   </component>
 </application>
