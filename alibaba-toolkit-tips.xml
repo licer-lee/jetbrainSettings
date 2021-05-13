@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="E:/download/demo" firstStartUp="false" />
     <entry projectName="G:/workspace/caomalai/demeter" firstStartUp="false" />
     <entry projectName="G:/workspace/caomalai/dionysus" firstStartUp="false" />
     <entry projectName="G:/workspace/caomalai/dionysus/dionysus" firstStartUp="false" />
